@@ -1,34 +1,52 @@
 <h2 align="left"> Hi, I'm Aakash Taneja! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-@aakashtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aakashtaneja6)](https://twitter.com/aakashtaneja6) [![Linkedin Badge](https://img.shields.io/badge/-aakashtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-taneja/)](https://www.linkedin.com/in/aakash-taneja/)
-[![GitHub followers](https://img.shields.io/github/followers/aakash-taneja?label=Follow&style=social)](https://github.com/aakash-taneja/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-aakashtaneja12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aakashtaneja12@gmail.com)](mailto:aakashtaneja12@gmail.com)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/aakashtaneja6)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakash-taneja)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aakash-taneja)
+[<img src="https://img.shields.io/badge/Portfolio-%23B8FF1F.svg?&style=for-the-badge">](https://aakashtaneja.vercel.app/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:aakashtaneja12@gmail.com)
 
-<!--
+
+
+I'm a Full Stack Software Developer deeply invested in the Web3 space. I’m always eager to learn new things and explore the latest tech trends. From building user-friendly apps to diving into cool projects, I enjoy learning new things.
+
+- 🌱 I am currently learning Go and exploring new tech.
+- 🏄‍ Love being involved in community events.
+- ✍️ In my free time, I like to sketch and play guitar as hobby.
+- 👯 I’m looking to team up for hackathons and collaborative projects.
+- 📫 Feel free to reach out to me on [X](https://www.twitter.com/aakashtaneja6)
+
+## 👨‍💻 Languages and Tools
+
 <p align="center">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity" />
+  <img src="https://img.shields.io/badge/-IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
--->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aakash-taneja&show_icons=true&theme=radical&count_private=true" height="150px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-taneja&theme=radical" height="150px" /> </div>
+
+## 🏆 Github Stats
+
+<a href="https://github.com/aakash-taneja/aakash-taneja">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aakash-taneja&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&hide=html,css" height="200px"/>
+</a>
+
+<a href="https://github.com/aakash-taneja/aakash-taneja">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aakash-taneja&theme=highcontrast&background=1D1F21&currStreakLabel=FFFFFF&ring=FFFFFF&fire=FFFFFF" height="200px">
+</a>
+
+
 <!--
-**aakash-taneja/aakash-taneja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img  src="https://github-readme-stats.vercel.app/api?username=aakash-taneja&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aakash-taneja&layout=compact&langs_count=8&hide_border=true" >
+<img  src="https://github-readme-stats.vercel.app/api?username=aakash-taneja&show_icons=true&theme=radical&count_private=true" height="150px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-taneja&theme=radical" height="150px" />
 -->
