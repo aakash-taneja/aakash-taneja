@@ -36,13 +36,8 @@ I'm a Full Stack Software Developer deeply invested in the Web3 space. I’m alw
 ## 🏆 Github Stats
 
 <a href="https://github.com/aakash-taneja/aakash-taneja">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aakash-taneja&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&hide=html,css" height="200px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aakash-taneja&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&hide=html,css" />
 </a>
-
-<a href="https://github.com/aakash-taneja/aakash-taneja">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aakash-taneja&theme=highcontrast&background=1D1F21&currStreakLabel=FFFFFF&ring=FFFFFF&fire=FFFFFF" height="200px">
-</a>
-
 
 <!--
 <img  src="https://github-readme-stats.vercel.app/api?username=aakash-taneja&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
