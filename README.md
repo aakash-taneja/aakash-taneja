@@ -33,12 +33,6 @@ I'm a Full Stack Software Developer deeply invested in the Web3 space. I’m alw
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
-## 🏆 Github Stats
-
-<a href="https://github.com/aakash-taneja/aakash-taneja">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aakash-taneja&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&hide=html,css" />
-</a>
-
 <!--
 <img  src="https://github-readme-stats.vercel.app/api?username=aakash-taneja&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 <img src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aakash-taneja&layout=compact&langs_count=8&hide_border=true" >
